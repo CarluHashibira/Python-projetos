@@ -1,4 +1,4 @@
-# Calcular força gravitacional utiulizando a formual de Newton F = G M1M2/d²
+# Calcular força gravitacional utilizando a formula de Newton F = G M1M2/d²
 
 # Função para calcular a força gravitacional
 def calcular_forca_gravitacional(massa1, massa2, distancia):
